@@ -8,7 +8,7 @@ function firstNonRepeatingCharacter(out) {
       return char;
     }
   }
-  return "_";
+  return null;
 };
 let ans = firstNonRepeatingCharacter(out);
 alert(ans);
